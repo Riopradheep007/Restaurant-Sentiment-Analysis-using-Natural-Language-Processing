@@ -1,7 +1,7 @@
 # Restaurant-Sentiment-Analysis-using-Natural-Language-Processing
 
 ## Table of content
-   - Demo
+   - [Demo](Demo)
    - Overview
    - Motivation
    - Installation
