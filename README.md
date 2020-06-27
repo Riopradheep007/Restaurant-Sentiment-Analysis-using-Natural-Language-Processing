@@ -45,7 +45,4 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
    TO run this model In **Linux/Mac** open Terminal.If you are  **Windows user** open your command prompt.Run the command
    
     streamlit run app.py
-    
-## Technologies Used
-       
-  
+ 
