@@ -7,7 +7,7 @@
    - Technical Aspect
    - Installation
    - Run
-   - Technologies Used
+  
  
  ## Demo
 
