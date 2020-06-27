@@ -27,11 +27,17 @@
 
 This project is divided into two part:
 
- 1.Training the model using machine learning.
+ 1. Training the model using machine learning.
        
  2. Building and hosting a Streamlit web app on Heroku
-     - User have to enter their reviews in the text area
-     - After entered  the review displayed the output the review is Positive or Negative
+     - User have to enter their reviews in the text area.
+     - After entered  the review displayed the output the review is Positive or Negative.
+     
+## Installation
+
+The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
+     
+     
           
        
   
