@@ -7,7 +7,7 @@
    - Technical Aspect
    - Installation
    - Run
-   - Deployement on Heroku
+   - Technologies Used
  
  ## Demo
 
@@ -35,9 +35,17 @@ This project is divided into two part:
      
 ## Installation
 
-The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
+The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command.
+
+
+    pip install -r requirements.txt
+
      
-     
-          
+## Run 
+   TO run this model In **Linux/Mac** open Terminal.If you are  **Windows user** open your command prompt.Run the command
+   
+    streamlit run app.py
+    
+## Technologies Used
        
   
