@@ -6,3 +6,5 @@ This project will very usefull for the restaurant owners, they have improve thei
 their business will grow.
 
 Webapi link:https://restaurant-sentiment-analysis.herokuapp.com/
+
+![streamlit-app-2020-06-27-17-06-81 webm](https://user-images.githubusercontent.com/46066018/85922403-94dcd500-b8a0-11ea-8fc5-2184a713b953.gif)
