@@ -21,7 +21,8 @@
 **positive review** or  **negative review**
 
 ## Motivation
-   The idea of restaurant sentiment analysis is I was went to Restaurant to had my dinner.In that Restaurant some foods was not good and when we ordered food they take more time for serve the food my friend said me we never come back to this Restaurant.It will strike me to develope a Restaurant sentiment analysis model.If the Restaurant lose the customer like their profit was very much reduced,to avoid this kind of Restaurant loss  their customer I made this model. 
+   I had search in kaggle any simple dataset is there to build a end to end project.In that time i had saw this dataset.After saw this dataet i decided to build 
+   an end to end project.
 
 ## Technical Aspect
 
