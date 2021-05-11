@@ -21,8 +21,7 @@
 **positive review** or  **negative review**
 
 ## Motivation
-   I had search in kaggle any simple dataset is there to build a end to end project.In that time i had saw this dataset.After saw this dataet i decided to build 
-   an end to end project.
+   What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
 
 ## Technical Aspect
 
