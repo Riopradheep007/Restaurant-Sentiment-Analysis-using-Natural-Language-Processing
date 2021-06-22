@@ -1,13 +1,13 @@
 # Restaurant-Sentiment-Analysis-using-Natural-Language-Processing
 
 ## Table of content
-   - Demo
-   - Overview
-   - Motivation
-   - Technical Aspect
-   - Installation
-   - Deployement On Heroku
-   - Run
+   - [Demo](#Demo)
+   - [Overview](#Overview)
+   - [Motivation](#Motivation)
+   - [Technical Aspect](#Technical-Aspect)
+   - [Installation](#Installation)
+   - [Deployement On Heroku](#Deployement-On-Heroku)
+   - [Run](#Run)
   
  
  ## Demo
