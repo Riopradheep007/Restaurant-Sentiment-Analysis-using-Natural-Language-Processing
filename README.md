@@ -52,7 +52,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
      
 ## Run 
-   TO run this model In **Linux/Mac** open Terminal.If you are  **Windows user** open your command prompt.Run the command
+   To run this model In **Linux/Mac** open Terminal.If you are  **Windows user** open your command prompt.Run the command
    
     streamlit run app.py
  
